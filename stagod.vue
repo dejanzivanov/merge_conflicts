@@ -3,8 +3,10 @@
               <h1 class="mt-4">Administracija izvora</h1>
               <ol class="breadcrumb mb-0">
                   <li class="breadcrumb-item"><a href="/">Početna</a></li>
+                deki
                   <li class="breadcrumb-item"><a href="/administracija-grupa">Grupe</a></li>
                   <li class="breadcrumb-item active">Izvori</li>
+                mile
               </ol>
 
               <!-- Modal novi izvor -->
